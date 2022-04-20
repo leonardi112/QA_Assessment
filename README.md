@@ -8,3 +8,5 @@ password : pass
  2. Sign up test 
 Untuk dapat melakukan sign up test, saya menggunakan data user yang belum pernah di register :
 email : testingasd@email.com
+
+Lalu saya juga lampirkan API testing berupa collection (hasil export dari postman) : Test API_collection.json dimana saya menggunakan postman sebagai tools untuk testing API nya
